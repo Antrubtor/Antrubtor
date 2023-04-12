@@ -1,4 +1,5 @@
 ### Hi there 👋
+<figure><embed src="https://wakatime.com/share/@Antrubtor/c0596a89-db6d-4d3c-861a-6df183c65863.svg"></embed></figure>
 
 ![](https://komarev.com/ghpvc/?username=Antrubtor&style=flat-square)
 
