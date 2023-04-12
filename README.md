@@ -1,5 +1,6 @@
 ### Hi there 👋
 <figure><embed src="https://wakatime.com/share/@Antrubtor/c0596a89-db6d-4d3c-861a-6df183c65863.svg"></embed></figure>
+<iframe width="560" height="315" src="https://wakatime.com/share/@Antrubtor/c0596a89-db6d-4d3c-861a-6df183c65863.svg" title="Time"</iframe>
 
 ![](https://komarev.com/ghpvc/?username=Antrubtor&style=flat-square)
 
