@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=Antrubtor&style=flat-square)
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Antrubtor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Antrubtor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
