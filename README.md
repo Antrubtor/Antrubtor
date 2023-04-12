@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Antrubtor&style=flat-square)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Antrubtor)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Antrubtor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
 <source 
