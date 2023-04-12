@@ -21,3 +21,7 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Antrubtor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
