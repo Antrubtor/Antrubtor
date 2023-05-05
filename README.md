@@ -22,7 +22,6 @@ Antrubtor
 const Antrubtor = {
     name : "Antrubtor",
     status : "Student - EPITA",
-    age : 18 + "07/04/2004",
     country : "France, Paris",
 };
 ````
