@@ -54,8 +54,7 @@ const Antrubtor = {
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Antrubtor&show_icons=true&theme=radical" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antrubtor&layout=compact&theme=radical" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&theme=radical" /></td>
-  </tr>
+</tr>
 </table>
 </div>
 
