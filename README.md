@@ -21,7 +21,7 @@ Antrubtor
 ```js
 const Antrubtor = {
     name : "Antrubtor",
-    status : "Student - EPITA",
+    status : "Student - EPITA 2027",
     country : "France, Paris",
 };
 ````
