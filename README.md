@@ -1,42 +1,50 @@
-<div align="center">
-<img style="border-radius:50%; width:200px;" src="https://avatars.githubusercontent.com/u/70094563?v=4">
-</div>
-<h2 align="center">
+<img src=.ressources/nightloop.gif width="100%" style="border-radius:5%">
+
+<h1 align="center">
   Hi,
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm 
-Antrubtor
+  <img src=.ressources/hellocat.gif width="40">
+  I'm Antrubtor
+</h1>
 
-</h2>
-<div align="center">
-<img src="https://camo.githubusercontent.com/8701ea542dd15d60dfbfb60368abba79924dc0b55958e1e38538910da4ad8989/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416e74727562746f72267374796c653d666c61742d737175617265" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Antrubtor&amp;style=flat-square" style="max-width: 100%;">
-<br/>
 
-</div>
+--------------------------------------------
 
-<hr/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About me
-
+## <img src=.ressources/cat.gif width="50"> About me
 ```js
 const Antrubtor = {
     name : "Antrubtor",
     status : "Student - EPITA 2027",
     country : "France, Paris",
+    love : ("🏎️","🐈","🖥️"),
+    WPM : 112
 };
 ````
 
 
-## [!] Stonks - Stats
+## <img src=.ressources/stats.gif width="50"> Stats
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=antrubtor&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" />
+</picture>
 
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=antrubtor&theme=algolia&border_radius=5&mode=weekly&card_height=215" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=dark&custom_title=Time%20by%20language" /></td>
-  </tr>
-</table>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2012/04/2023"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023" />
+</picture>
 
 ## </> Languages & Tools
 <div align="center">
