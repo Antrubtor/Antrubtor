@@ -19,6 +19,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate snake svg
         uses: Platane/snk/svg-only@v3
@@ -30,11 +34,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
       - name: push snake svg
         run: |
-          git add .ressources/github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg?palette=github-dark
-          git commit -m 'snake svg updated'
+          git add .ressources/github-contribution-grid-snake.svg
+          git add .ressources/github-contribution-grid-snake-dark.svg
+          git commit -m 'Update snake svg'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
