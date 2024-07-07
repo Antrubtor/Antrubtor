@@ -32,9 +32,9 @@ const Antrubtor = {
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Antrubtor&show_icons=true&theme=radical" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antrubtor&layout=compact&theme=radical" /></td>
-</tr>
+    <td><img src="https://streak-stats.demolab.com?user=antrubtor&theme=algolia&border_radius=5&mode=weekly&card_height=215" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=dark&custom_title=Time%20by%20language" /></td>
+  </tr>
 </table>
 </div>
 
