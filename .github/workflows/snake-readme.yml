@@ -33,6 +33,6 @@ jobs:
 
       - name: push snake svg
         run: |
-          git add .ressources/ton fichier.svg
+          git add .ressources/github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg?palette=github-dark
           git commit -m 'ton commit'
           git push
