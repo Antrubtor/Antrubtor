@@ -26,10 +26,12 @@ const Antrubtor = {
   <source
     srcset="https://streak-stats.demolab.com?user=antrubtor&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"
     media="(prefers-color-scheme: dark)"
+    width="49%"
   />
   <source
     srcset="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="49%"
   />
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" />
 </picture>
@@ -38,10 +40,12 @@ const Antrubtor = {
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2012/04/2023"
     media="(prefers-color-scheme: dark)"
+    width="49%"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="49%"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023" />
 </picture>
