@@ -86,7 +86,7 @@ const Antrubtor = {
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".ressources/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset=".ressources/github-snake.svg" />
-  <img alt="github-snake" src=".ressources/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset=".ressources/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".ressources/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src=".ressources/github-contribution-grid-snake.svg" />
 </picture>
