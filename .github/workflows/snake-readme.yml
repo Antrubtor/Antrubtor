@@ -36,6 +36,8 @@ jobs:
 
       - name: push snake svg
         run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .ressources/github-contribution-grid-snake.svg
           git add .ressources/github-contribution-grid-snake-dark.svg
           git commit -m 'Update snake svg'
