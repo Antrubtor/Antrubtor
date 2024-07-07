@@ -83,3 +83,10 @@ const Antrubtor = {
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix" alt="os">
   </a>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".ressources/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".ressources/github-snake.svg" />
+  <img alt="github-snake" src=".ressources/github-snake.svg" />
+</picture>
