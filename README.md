@@ -7,7 +7,7 @@
 </h1>
 
 
---------------------------------------------
+-----------------------------------------------
 
 ## <img src=.ressources/cat.gif width="50"> About me
 ```js
@@ -20,6 +20,7 @@ const Antrubtor = {
 };
 ````
 
+-----------------------------------------------
 
 ## <img src=.ressources/stats.gif width="50"> Stats
 <picture>
@@ -50,13 +51,35 @@ const Antrubtor = {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023" />
 </picture>
 
+-----------------------------------------------
+
 ## <img src=.ressources/skills.gif width="50"> Skills
 
-### Programming languages
-[![languages](https://skillicons.dev/icons?i=py,cs,c,ocaml,markdown,rust,bash&perline=8)]
-### Software & Tools
-[![tools](https://skillicons.dev/icons?i=unity,git,github,gitlab,arduino,blender,selenium,dotnet,robloxstudio&perline=8)]
-### IDEs
-[![ides](https://skillicons.dev/icons?i=vim,emacs,pycharm,rider,clion,androidstudio,vscode,neovim,emacs&perline=8)]
-### Operating Systems
-[![os](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix&perline=8)]
+
+### <img src=.ressources/languages.gif width="50"> Programming languages:
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=py,cs,c,ocaml,markdown,rust,bash">
+    <img src="https://skillicons.dev/icons?i=py,cs,c,ocaml,markdown,rust,bash" alt="languages">
+  </a>
+</div>
+
+### <img src=.ressources/softwares.gif width="50"> Software & Tools:
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=unity,git,github,gitlab,arduino,blender,selenium,dotnet,robloxstudio">
+    <img src="https://skillicons.dev/icons?i=unity,git,github,gitlab,arduino,blender,selenium,dotnet,robloxstudio" alt="tools">
+  </a>
+</div>
+
+### <img src=.ressources/ides.gif width="50"> IDEs:
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=vim,emacs,pycharm,rider,clion,androidstudio,vscode,neovim,emacs">
+    <img src="https://skillicons.dev/icons?i=vim,emacs,pycharm,rider,clion,androidstudio,vscode,neovim,emacs" alt="ides">
+  </a>
+</div>
+
+### <img src=.ressources/systems.gif width="50"> Operating Systems:
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix" alt="os">
+  </a>
+</div>
