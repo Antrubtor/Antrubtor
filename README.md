@@ -76,8 +76,8 @@ const Antrubtor = {
 
 ### <img src=.ressources/ides.gif width="30" style="vertical-align: middle;"> IDEs:
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=vim,emacs,pycharm,rider,clion,androidstudio,vscode,neovim,emacs">
-    <img src="https://skillicons.dev/icons?i=vim,emacs,pycharm,rider,clion,androidstudio,vscode,neovim,emacs" alt="ides">
+  <a href="https://skillicons.dev/icons?i=vim,pycharm,rider,clion,androidstudio,vscode,neovim,emacs">
+    <img src="https://skillicons.dev/icons?i=vim,pycharm,rider,clion,androidstudio,vscode,neovim,emacs" alt="ides">
   </a>
 </div>
 
