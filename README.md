@@ -51,6 +51,12 @@ const Antrubtor = {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Antrubtor&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".ressources/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".ressources/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src=".ressources/github-contribution-grid-snake.svg" />
+</picture>
+
 -----------------------------------------------
 
 ## <img src=.ressources/skills.gif width="50"> Skills
@@ -83,10 +89,3 @@ const Antrubtor = {
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix" alt="os">
   </a>
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".ressources/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset=".ressources/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src=".ressources/github-contribution-grid-snake.svg" />
-</picture>
