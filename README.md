@@ -8,7 +8,7 @@
 -----------------------------------------------
 
 ## <img src=.ressources/cat.gif width="50"> About me
-<img src="./ressources/codingloop.gif" width="20%" align="right">
+<img src=".ressources/codingloop.gif" height="195vh" align="right">
 
 ```js
 const Antrubtor = {
