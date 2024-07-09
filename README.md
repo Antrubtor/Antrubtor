@@ -1,4 +1,16 @@
-<img src=.ressources/nightloop.gif width="100%" style="border-radius:5%">
+<picture>
+  <source
+    srcset=".ressources/nightloop.gif"
+    media="(prefers-color-scheme: dark)"
+    width="100%"
+  />
+  <source
+    srcset=".ressources/dino.gif"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="100%"
+  />
+  <img height=200 align="center" src=.ressources/dino.gif />
+</picture>
 
 <h1 align="center">
   Hi, <img src=.ressources/hellocat.gif width="40"> I'm Antrubtor
@@ -8,7 +20,7 @@
 -----------------------------------------------
 
 ## <img src=.ressources/cat.gif width="50"> About me
-<img src=".ressources/codingloop.gif" height="160vh" align="right">
+<img src=".ressources/codingloop.gif" height="170vh" align="right">
 
 ```js
 const Antrubtor = {
