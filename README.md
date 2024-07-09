@@ -35,7 +35,7 @@ const Antrubtor = {
 
 -----------------------------------------------
 
-## <img src=.ressources/stats.gif width="50" style="vertical-align: middle;"> Stats
+## <img src=.ressources/stats.gif width="50" style="vertical-align: middle;"> Stats <a href="https://wakatime.com/@7221afe9-fcd9-4e66-864d-4554001ed990"><img src="https://wakatime.com/badge/user/7221afe9-fcd9-4e66-864d-4554001ed990.svg" alt="Total time coded since Apr 12 2023" /></a>
 <picture>
   <source
     srcset="https://streak-stats.demolab.com?user=antrubtor&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"
