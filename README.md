@@ -8,6 +8,8 @@
 -----------------------------------------------
 
 ## <img src=.ressources/cat.gif width="50"> About me
+<img src="./ressources/codingloop.gif" width="20%" align="right">
+
 ```js
 const Antrubtor = {
     name : "Antrubtor",
@@ -16,7 +18,8 @@ const Antrubtor = {
     love : ("🏎️","🐈","🖥️"),
     WPM : 112
 };
-````
+```
+
 
 -----------------------------------------------
 
