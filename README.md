@@ -99,6 +99,6 @@ const Antrubtor = {
 ### <img src=.ressources/systems.gif width="30" style="vertical-align: middle;"> Operating Systems:
 <div align="center">
   <a href="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix,arch" alt="os">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix,kali,arch" alt="os">
   </a>
 </div>
