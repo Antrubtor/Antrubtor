@@ -49,7 +49,8 @@ const Antrubtor = {
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     width="49%"
   />
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" />
+  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" />
+  <!-- <img height=200 align="center" src="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" /> -->
 </picture>
 
 <picture>
