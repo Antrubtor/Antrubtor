@@ -78,8 +78,8 @@ const Antrubtor = {
 
 ### <img src=.ressources/languages.gif width="30" style="vertical-align: middle;"> Programming languages:
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=py,cs,c,ocaml,markdown,mysql,rust,bash">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,java,ocaml,markdown,mysql,rust,bash" alt="languages">
+  <a href="https://skillicons.dev/icons?i=py,c,cs,java,js,markdown,mysql,ocaml,bash">
+    <img src="https://skillicons.dev/icons?i=py,c,cs,java,js,markdown,mysql,ocaml,bash" alt="languages">
   </a>
 </div>
 
