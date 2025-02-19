@@ -38,16 +38,16 @@ const Antrubtor = {
 ## <img src=.ressources/stats.gif width="50" style="vertical-align: middle;"> Stats <img src="https://wakatime.com/badge/user/7221afe9-fcd9-4e66-864d-4554001ed990.svg" alt="Total time coded since Apr 12 2023" align="right" /></a>
 <picture>
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=antrubtor&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"
+    srcset="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=antrubtor&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"
     media="(prefers-color-scheme: dark)"
     width="49%"
   />
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215"
+    srcset="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     width="49%"
   />
-  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" />
+  <img height=200 align="center" src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" />
   <!-- <img height=200 align="center" src="https://streak-stats.demolab.com?user=antrubtor&theme=buefy&border_radius=5&mode=weekly&card_height=215" /> -->
 </picture>
 
