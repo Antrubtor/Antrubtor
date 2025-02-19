@@ -78,8 +78,8 @@ const Antrubtor = {
 
 ### <img src=.ressources/languages.gif width="30" style="vertical-align: middle;"> Programming languages:
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=py,c,cs,java,js,markdown,mysql,ocaml,bash">
-    <img src="https://skillicons.dev/icons?i=py,c,cs,java,js,markdown,mysql,ocaml,bash" alt="languages">
+  <a href="https://skillicons.dev/icons?i=py,c,cs,java,js,mysql,bash,markdown,ocaml">
+    <img src="https://skillicons.dev/icons?i=py,c,cs,java,js,mysql,bash,markdown,ocaml" alt="languages">
   </a>
 </div>
 
@@ -92,14 +92,14 @@ const Antrubtor = {
 
 ### <img src=.ressources/ides.gif width="30" style="vertical-align: middle;"> IDEs:
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=vim,pycharm,rider,clion,androidstudio,vscode,neovim,emacs">
-    <img src="https://skillicons.dev/icons?i=vim,pycharm,rider,clion,idea,androidstudio,vscode,neovim,emacs" alt="ides">
+  <a href="https://skillicons.dev/icons?i=vim,pycharm,rider,clion,idea,androidstudio,vscode,neovim">
+    <img src="https://skillicons.dev/icons?i=vim,pycharm,rider,clion,idea,androidstudio,vscode,neovim" alt="ides">
   </a>
 </div>
 
 ### <img src=.ressources/systems.gif width="30" style="vertical-align: middle;"> Operating Systems:
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nix">
-    <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,nix,kali" alt="os">
+  <a href="https://skillicons.dev/icons?i=arch,windows,linux,ubuntu,kali,nix">
+    <img src="https://skillicons.dev/icons?i=arch,windows,linux,ubuntu,nix,kali" alt="os">
   </a>
 </div>
