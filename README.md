@@ -28,7 +28,7 @@ const Antrubtor = {
     status : "Student - EPITA 2027",
     country : "France, Paris",
     love : ("🏎️","🐈","🖥️"),
-    WPM : 112
+    WPM : 114
 };
 ```
 
