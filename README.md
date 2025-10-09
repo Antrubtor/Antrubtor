@@ -26,7 +26,7 @@
 const Antrubtor = {
     name : "Antrubtor",
     status : "Student - EPITA 2027",
-    country : "France, Paris",
+    country : "France",
     love : ("🏎️","🐈","🖥️"),
     WPM : 114
 };
